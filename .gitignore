@@ -1,1 +1,15 @@
+###files git should ignore
 
+# cached python files
+_pycache_/*
+
+# object files
+*.o
+
+# datafiles
+*.dat
+
+# LateX auxilary files
+*.aux
+*.fls
+*.log
